@@ -1,0 +1,22 @@
+* {
+  background-color: darken(aqua, 10%);
+  color: white;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+ul {
+  list-style: none;
+  font-size: 1.6rem;
+
+  li {
+    display: inline-block;
+    padding: 1rem 2rem;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
